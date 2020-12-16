@@ -1,0 +1,6 @@
+C:\Users\Putra Adi Jaya Soft\RiderProjects\AegisSharp\AegisSharp\obj\Debug\AegisSharp.csprojAssemblyReference.cache
+C:\Users\Putra Adi Jaya Soft\RiderProjects\AegisSharp\AegisSharp\obj\Debug\AegisSharp.csproj.CoreCompileInputs.cache
+C:\Users\Putra Adi Jaya Soft\RiderProjects\AegisSharp\AegisSharp\bin\Debug\AegisSharp.exe
+C:\Users\Putra Adi Jaya Soft\RiderProjects\AegisSharp\AegisSharp\bin\Debug\AegisSharp.pdb
+C:\Users\Putra Adi Jaya Soft\RiderProjects\AegisSharp\AegisSharp\obj\Debug\AegisSharp.exe
+C:\Users\Putra Adi Jaya Soft\RiderProjects\AegisSharp\AegisSharp\obj\Debug\AegisSharp.pdb
